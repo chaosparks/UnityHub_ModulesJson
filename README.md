@@ -40,6 +40,6 @@ If you want to upload your own ‘modules.json’ file, please contribute throug
 
 
 ## Unresolved issues
-It seems like it should work just by adding it with ‘Locate’ in Unity Hub, but it doesn’t
-It definitely only works in the folder where Unity Hub is installed.
-If you know the solution to this problem, please leave it in the issue.
+It seems like it should work just by adding it with ‘Locate’ in Unity Hub, but it doesn’t.  
+It definitely only works in the folder where Unity Hub is installed.  
+If you know the solution to this problem, please leave it in the issue.  
