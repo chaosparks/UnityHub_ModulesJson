@@ -1,9 +1,9 @@
 # Unity Hub 'modules.json'
-This is a collection of ‘modules.json’ files for Unity Hub
+This is a collection of ‘modules.json’ files for Unity Hub  
 This is a file extracted immediately after installing Unity.  
   
-There are cases where Unity Hub does not properly recognize it when Unity is installed manually.
-This is a file for making Unity Hub work properly without reinstalling Unity when this happens.”
+There are cases where Unity Hub does not properly recognize it when Unity is installed manually.  
+This is a file for making Unity Hub work properly without reinstalling Unity when this happens.”  
 
 [Korean Readme](https://blog.danggun.net/11857)
 
